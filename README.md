@@ -6,6 +6,10 @@ This project showcases my skills in both **frontend and backend development**, a
 
 🔗 [https://raphaelfang.com/tdt/v1/](https://raphaelfang.com/tdt/v1/)
 
+## 🧾 Testing Account
+- **Email**: abcd@gmail.com  
+- **Password**: test1  
+
 ## 🎥 Demo
 
 ![the gif demo for Taipei-Day-Trip project](https://github.com/user-attachments/assets/c5b6f036-1ddf-472c-be1c-884278f849eb)
